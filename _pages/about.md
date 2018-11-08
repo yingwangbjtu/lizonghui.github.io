@@ -15,7 +15,7 @@ He is currently working toward the Ph.D. degree in software engineering at the S
 
 News
 ======
-[**Paper**] "**Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches**" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.  
+[**Paper**] "**Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches**" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (2018/10/30)  
 
 
 Recently Published Papers
