@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zonghui Li"
   avatar           : "zonghuili.jpg"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=0_14rJYAAAAJ&hl=en&oi=ao"
-  email            : "zonghui.lee at gmail.com"
+  email            : "zonghui.lee@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
