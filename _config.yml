@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Academic Biography"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zonghui Li"
 description              : &description "personal description"
 url                      : https://lizonghui.github.io
 baseurl                  : ""
