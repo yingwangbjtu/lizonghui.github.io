@@ -10,7 +10,7 @@ redirect_from:
 
 He received the B.S. degree in computer science from the Beijing Information Science and Technology University, and the M.S. degree in integrated circuits from the Institute of Microelectronics, Tsinghua University, Beijing, China, in 2010 and 2014, respectively. 
 
-He is currently working toward the Ph.D. degree in software engineering at the School of Software, Tsinghua University, China. His research interests include Time Sensitive Networking, Industrial Ethernet, Real-time Embedded Systems, High Performance Computing.
+He is currently working toward the Ph.D. degree in software engineering at the School of Software, Tsinghua University, China since 2015. His research interests include Time Sensitive Networking, Industrial Ethernet, Real-time Embedded Systems, High Performance Computing.
 
 
 News
