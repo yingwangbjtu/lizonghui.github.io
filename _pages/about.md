@@ -44,12 +44,12 @@ RadixBoost: A hardware acceleration structure for scalable radix sort on graphic
 
 Teaching Assistant
 ======
-- [CS20740073] Foundation of Computer Programming, Every Spring and Fall.
+- [CS20740073] **Foundation of Computer Programming**, Every Spring and Fall.
 
-- [CS30240332] JAVA Programming Practice, July and August, 2018.
+- [CS30240332] **JAVA Programming Practice**, July and August, 2018.
 
-- [CS00740103] Introduction to Operating Systems, Spring, 2017.
+- [CS00740103] **Introduction to Operating Systems**, Spring, 2017.
 
-- [CS84100332] Architecture for Embedded Systems. Fall, 2016.
+- [CS84100332] **Architecture for Embedded Systems**. Fall, 2016.
 
-- [CS84100142] Parallel Programming Design. Spring, 2015.
+- [CS84100142] **Parallel Programming Design**. Spring, 2015.
