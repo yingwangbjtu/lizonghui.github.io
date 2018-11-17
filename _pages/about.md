@@ -76,8 +76,7 @@ Talks and Presentations
 ======
 - [Presentation] A Flattened Priority Framework for Mixed-Criticality Real-Time Systems [(Slides)](http://2018.rtas.org/wp-content/uploads/2018/05/1-zonghui.pdf), IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Porto, Portugal, April 11, 2018.
 
-- [Presentation] Path compression kd-trees with multi-layer parallel construction a case study on ray tracing [(Slides)](#), 
-Symposium on Interactive 3D Graphics and Games, San Francisco, California, USA, February 27, 2017.
+- [Presentation] Path compression kd-trees with multi-layer parallel construction a case study on ray tracing [(Slides)](#), the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, San Francisco, California, USA, February 27, 2017.
 
 
 Recently Published Papers
