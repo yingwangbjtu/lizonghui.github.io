@@ -35,11 +35,11 @@ Teaching Assistant
 
 Work Experience
 ======
-- Research & Development Engineer (Intern) in National Supercomputing Center (Tianjing), China from May to August, 2017
+- **Research & Development Engineer (Intern)** in National Supercomputing Center (Tianjing), China from May to August, 2017
 
-- Research & Development Engineer (Fulltime) in Baidu, Cina from August, 2014 to August, 2015
+- **Research & Development Engineer (Fulltime)** in Baidu, China from August, 2014 to August, 2015
 
-- Research Assistant (Fulltime)in Knowledge Engineering Lab, Department of Computer Science and Technology, Tsinghua University, China from July, 2010 to August, 2011
+- **Research Assistant (Fulltime)** in Knowledge Engineering Lab, Department of Computer Science and Technology, Tsinghua University, China from July, 2010 to August, 2011
 
 
 Awards and Honors
@@ -50,7 +50,7 @@ Awards and Honors
 
 - Excellent Beijing Graduate Award, 2010
 
-- TRS(Beijing TRS Information Technology Limited) Scholarship, 2010
+- TRS (Beijing TRS Information Technology Limited) Scholarship, 2010
 
 - National Motivational Scholarships, 2008, 2009
 
