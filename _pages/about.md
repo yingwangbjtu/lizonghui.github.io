@@ -50,7 +50,7 @@ Work Experience
 
 Worked on Research Projects
 ======
-- Research and Applications of TCSN (Train Control and Service Network) Key Technologies, the National Science and Technology Support Program of China (No. 2015BAG14B01-02), 2015 - 2019.
+- Research and applications of TCSN (Train Control and Service Network) key technologies, the National Science and Technology Support Program of China (No. 2015BAG14B01-02), 2015 - 2019.
 
 - Test environment and demonstration application of trustworthy embedded software systems, the Major Research Plan of the National Natural Science Foundation of China (No. 91218302), 2013 - 2016.
 
