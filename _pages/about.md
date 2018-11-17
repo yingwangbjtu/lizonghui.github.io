@@ -12,19 +12,34 @@ He received the B.S. degree in computer science from the Beijing Information Sci
 
 He is currently working toward the Ph.D. degree in software engineering at the School of Software, Tsinghua University, China since 2015. His research interests include Time Sensitive Networking, Industrial Ethernet, Real-time Embedded Systems, High Performance Computing.
 
-His supervisor and co-supervisor are [Ming Gu](http://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219102622467554674/20101219102622467554674_.html) and [Jiaguang Sun](http://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219095105462245998/20101219095105462245998_.html), respectively.
+His supervisor and co-supervisor are [Ming Gu](http://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219102622467554674/20101219102622467554674_.html) and [Jiaguang Sun](http://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219095105462245998/20101219095105462245998_.html), respectively. He is partly advised by the guest professors, [Xiaoyu Song](), Portland State University and [Chenyang Lu](https://www.cse.wustl.edu/~lu/), Washington University in St. Louis.
+
 
 News
 ======
 [**Paper**] "**Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches**" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (2018/10/30)  
 
+
+Teaching Assistant
+======
+- [CS20740073] **Foundation of Computer Programming**, Every Spring and Fall.
+
+- [CS30240332] **JAVA Programming Practice**, July and August, 2018.
+
+- [CS00740103] **Introduction to Operating Systems**, Spring, 2017.
+
+- [CS84100332] **Architecture for Embedded Systems**. Fall, 2016.
+
+- [CS84100142] **Parallel Programming Design**. Spring, 2015.
+
+
 Work Experience
 ======
-- Research & Development Engineer (Intern), National Supercomputing Center (Tianjing), China, May - August, 2017
+- Research & Development Engineer (Intern) in National Supercomputing Center (Tianjing), China from May to August, 2017
 
-- Research & Development Engineer (Fulltime), Baidu, Cina, August 2014 - August 2015
+- Research & Development Engineer (Fulltime) in Baidu, Cina from August, 2014 to August, 2015
 
-- Research Assistant (Fulltime), Knowledge Engineering Lab, Department of Computer Science and Technology, Tsinghua University, China, July 2010 - August 2011
+- Research Assistant (Fulltime)in Knowledge Engineering Lab, Department of Computer Science and Technology, Tsinghua University, China from July, 2010 to August, 2011
 
 
 Awards and Honors
@@ -44,6 +59,22 @@ Awards and Honors
 - First Rank Scholarship, 2007, 2008, 2009, 2010
 
 - First Rank Prize in Physics Olympiad, Beijing, 2007
+
+
+Worked on Research Projects
+======
+- Research and Applications of TCSN (Train Control and Service Network) Key Technologies, the National Science and Technology Support Program of China (No. 2015BAG14B01-02), 2015 - 2019.
+
+- Test environment and demonstration application of trustworthy embedded software systems, the Major Research Plan of the National Natural Science Foundation of China (No. 91218302), 2013 - 2016.
+
+- Parallel computer architecture for ray tracing, the National Natural Science Foundation of China, 2012 - 2016.
+
+- Essential microarchitectural and algorithmic techniques for ray tracing, the Tsinghua Independent Research Project, 2012 - 2015.
+
+
+Talks and Presentations
+======
+
 
 
 Recently Published Papers
@@ -68,16 +99,3 @@ FastTree: a hardware KD-tree construction acceleration engine for real-time ray 
 
 - Xingyu Liu, Shikai Li, Kuan Fang, Yufei Ni, **Zonghui Li**, Yangdong Deng:
 RadixBoost: A hardware acceleration structure for scalable radix sort on graphic processors. ISCAS 2015: 1174-1177
-
-
-Teaching Assistant
-======
-- [CS20740073] **Foundation of Computer Programming**, Every Spring and Fall.
-
-- [CS30240332] **JAVA Programming Practice**, July and August, 2018.
-
-- [CS00740103] **Introduction to Operating Systems**, Spring, 2017.
-
-- [CS84100332] **Architecture for Embedded Systems**. Fall, 2016.
-
-- [CS84100142] **Parallel Programming Design**. Spring, 2015.
