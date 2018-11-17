@@ -18,6 +18,25 @@ News
 [**Paper**] "**Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches**" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (2018/10/30)  
 
 
+Awards and Honors
+======
+- **Best paper award**, International Conference on Computer Design, 2013
+
+- First Rank NTUNISOFT Scholarship, 2017
+
+- Excellent Beijing Graduate Award, 2010
+
+- TRS(Beijing TRS Information Technology Limited) Scholarship, 2010
+
+- National Motivational Scholarships, 2008, 2009
+
+- Special Rank Scholarship, 2008
+
+- First Rank Scholarship, 2007, 2008, 2009, 2010
+
+- First Rank Prize in Physics Olympiad, Beijing, 2007
+
+
 Recently Published Papers
 ======
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Qinghan Yu, Tianchi Li, Kang Wei, Ming Gu:
