@@ -35,11 +35,11 @@ Teaching Assistant
 
 Work Experience
 ======
-- **Research & Development Engineer (Intern)** in National Supercomputing Center (Tianjing), China from May to August, 2017
+- **Research & Development Engineer (Intern) in National Supercomputing Center (Tianjing)**, China from May to August, 2017
 
-- **Research & Development Engineer (Fulltime)** in Baidu, China from August, 2014 to August, 2015
+- **Research & Development Engineer (Fulltime) in Baidu**, China from August, 2014 to August, 2015
 
-- **Research Assistant (Fulltime)** in Knowledge Engineering Lab, Department of Computer Science and Technology, Tsinghua University, China from July, 2010 to August, 2011
+- **Research Assistant (Fulltime) in Knowledge Engineering Lab**, Department of Computer Science and Technology, Tsinghua University, China from July, 2010 to August, 2011
 
 
 Awards and Honors
@@ -48,17 +48,17 @@ Awards and Honors
 
 - First Rank NTUNISOFT Scholarship, 2017
 
-- Excellent Beijing Graduate Award, 2010
+- **Excellent Beijing Graduate Award**, 2010
 
 - TRS (Beijing TRS Information Technology Limited) Scholarship, 2010
 
-- National Motivational Scholarships, 2008, 2009
+- **National Motivational Scholarships**, 2008, 2009
 
-- Special Rank Scholarship, 2008
+- **Special Rank Scholarship**, 2008
 
 - First Rank Scholarship, 2007, 2008, 2009, 2010
 
-- First Rank Prize in Physics Olympiad, Beijing, 2007
+- **First Rank Prize in Physics Olympiad**, Beijing, 2007
 
 
 Worked on Research Projects
