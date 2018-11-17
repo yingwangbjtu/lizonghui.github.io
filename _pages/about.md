@@ -17,29 +17,7 @@ His supervisor and co-supervisor are [Ming Gu](http://www.thss.tsinghua.edu.cn/p
 
 News
 ======
-[**Paper**] "**[Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches]**" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (2018/10/30)  
-
-
-Teaching Assistant
-======
-- [CS20740073] **Foundation of Computer Programming**, Every Spring and Fall.
-
-- [CS30240332] **JAVA Programming Practice**, July and August, 2018.
-
-- [CS00740103] **Introduction to Operating Systems**, Spring, 2017.
-
-- [CS84100332] **Architecture for Embedded Systems**. Fall, 2016.
-
-- [CS84100142] **Parallel Programming Design**. Spring, 2015.
-
-
-Work Experience
-======
-- **Research & Development Engineer (Intern) in National Supercomputing Center (Tianjing)**, China from May to August, 2017
-
-- **Research & Development Engineer (Fulltime) in Baidu**, China from August, 2014 to August, 2015
-
-- **Research Assistant (Fulltime) in Knowledge Engineering Lab**, Department of Computer Science and Technology, Tsinghua University, China from July, 2010 to August, 2011
+[**Paper**] "**[Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches](#)**" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (2018/10/30)  
 
 
 Awards and Honors
@@ -61,6 +39,15 @@ Awards and Honors
 - **First Rank Prize in Physics Olympiad**, Beijing, 2007
 
 
+Work Experience
+======
+- **Research & Development Engineer (Intern) in National Supercomputing Center (Tianjing)**, China from May to August, 2017
+
+- **Research & Development Engineer (Fulltime) in Baidu**, China from August, 2014 to August, 2015
+
+- **Research Assistant (Fulltime) in Knowledge Engineering Lab**, Department of Computer Science and Technology, Tsinghua University, China from July, 2010 to August, 2011
+
+
 Worked on Research Projects
 ======
 - Research and Applications of TCSN (Train Control and Service Network) Key Technologies, the National Science and Technology Support Program of China (No. 2015BAG14B01-02), 2015 - 2019.
@@ -72,11 +59,24 @@ Worked on Research Projects
 - Essential microarchitectural and algorithmic techniques for ray tracing, the Tsinghua Independent Research Project, 2012 - 2015.
 
 
+Teaching Assistant
+======
+- [CS20740073] **Foundation of Computer Programming**, Every Spring and Fall.
+
+- [CS30240332] **JAVA Programming Practice**, July and August, 2018.
+
+- [CS00740103] **Introduction to Operating Systems**, Spring, 2017.
+
+- [CS84100332] **Architecture for Embedded Systems**. Fall, 2016.
+
+- [CS84100142] **Parallel Programming Design**. Spring, 2015.
+
+
 Talks and Presentations
 ======
-- [Presentation:] A Flattened Priority Framework for Mixed-Criticality Real-Time Systems [Slides](http://2018.rtas.org/wp-content/uploads/2018/05/1-zonghui.pdf), IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Porto, Portugal, April 11, 2018.
+- [Presentation]: A Flattened Priority Framework for Mixed-Criticality Real-Time Systems [(Slides)](http://2018.rtas.org/wp-content/uploads/2018/05/1-zonghui.pdf), IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Porto, Portugal, April 11, 2018.
 
-- [Presentation:] Path compression kd-trees with multi-layer parallel construction a case study on ray tracing [Slides](#), 
+- [Presentation]: Path compression kd-trees with multi-layer parallel construction a case study on ray tracing [(Slides)](#), 
 Symposium on Interactive 3D Graphics and Games, San Francisco, California, USA, February 27, 2017.
 
 
