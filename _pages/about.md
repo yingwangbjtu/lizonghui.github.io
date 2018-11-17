@@ -74,11 +74,17 @@ Worked on Research Projects
 
 Talks and Presentations
 ======
+- [Presentation:] A Flattened Priority Framework for Mixed-Criticality Real-Time Systems [Slides](http://2018.rtas.org/wp-content/uploads/2018/05/1-zonghui.pdf), IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS), Porto, Portugal, April 11, 2018.
 
+- [Presentation:] Path compression kd-trees with multi-layer parallel construction a case study on ray tracing [Slides](), 
+Symposium on Interactive 3D Graphics and Games, San Francisco, California, USA, February 27, 2017.
 
 
 Recently Published Papers
 ======
+- **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao, Yue Gao, Ming Gu, Xiaoyu Song:
+Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (Accepted in 2018/10/30)
+
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Qinghan Yu, Tianchi Li, Kang Wei, Ming Gu:
 Model-based adaptation to extreme physical environments: a case study on mixed-criticality industrial ethernet. ICSE (Companion Volume) 2018: 327-328
 
