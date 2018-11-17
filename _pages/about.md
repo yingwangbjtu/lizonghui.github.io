@@ -12,10 +12,19 @@ He received the B.S. degree in computer science from the Beijing Information Sci
 
 He is currently working toward the Ph.D. degree in software engineering at the School of Software, Tsinghua University, China since 2015. His research interests include Time Sensitive Networking, Industrial Ethernet, Real-time Embedded Systems, High Performance Computing.
 
+His supervisor and co-supervisor are [Ming Gu](http://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219102622467554674/20101219102622467554674_.html) and [Jiaguang Sun](http://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219095105462245998/20101219095105462245998_.html), respectively.
 
 News
 ======
 [**Paper**] "**Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches**" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (2018/10/30)  
+
+Work Experience
+======
+- Research & Development Engineer (Intern), National Supercomputing Center (Tianjing), China, May - August, 2017
+
+- Research & Development Engineer (Fulltime), Baidu, Cina, August 2014 - August 2015
+
+- Research Assistant (Fulltime), Knowledge Engineering Lab, Department of Computer Science and Technology, Tsinghua University, China, July 2010 - August 2011
 
 
 Awards and Honors
