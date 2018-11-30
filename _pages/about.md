@@ -43,34 +43,34 @@ Work Experience
 ======
 - **Research & Development Engineer (Intern) in National Supercomputing Center (Tianjing)**, China from May to August, 2017
 
-Duty: Developing multicore and cluster parallel algorithms for the 3D simulation of material.
+  Duty: Developed multicore and cluster parallel algorithms for the 3D simulation of material.
 
 - **Research & Development Engineer (Fulltime) in Baidu**, China from August, 2014 to August, 2015.
 
-Duty: Developed very large scale machine learning algorithms such as collaborative filtering (CF), support vector machine (SVM), logical regression (LR) based on the parameter server computing model and stochastic gradient descent (SGD) method. 
+  Duty: Developed very large scale machine learning algorithms such as collaborative filtering (CF), support vector machine (SVM), logical regression (LR) based on the parameter server computing model and stochastic gradient descent (SGD) method. 
 
 - **Research Assistant (Fulltime) in Knowledge Engineering Lab**, Department of Computer Science and Technology, Tsinghua University, China from July, 2010 to August, 2011.
 
-Duty: Developed an internetware platform for service combination and service alternation.
+  Duty: Developed an internetware platform for service combination and service alternation.
 
 
 Worked on Research Projects
 ======
 - Research and applications of TCSN (Train Control and Service Network) key technologies, the National Science and Technology Support Program of China (No. 2015BAG14B01-02), 2015 - 2019.
 
-Duty: Developing Industrial Ethernet Switches based on the time-triggered communication protocol, time-sensitive networking protocols such as IEEE 802.1 AS, 802.1Qbv, 802.1Qca, etc. and apply them on modern railway vehicles.
+  Duty: Developing Industrial Ethernet Switches based on the time-triggered communication protocol, time-sensitive networking protocols such as IEEE 802.1 AS, 802.1Qbv, 802.1Qca, etc. and apply them on modern railway vehicles.
 
 - Test environment and demonstration application of trustworthy embedded software systems, the Major Research Plan of the National Natural Science Foundation of China (No. 91218302), 2013 - 2016.
 
-Duty: Designed an IEC61375 compatible Multi-functional Vehicle Bus (MVB) controller (Already deployed in high-speed trains, locomotives and subway trains operating in China, Egypt, and Argentina railways).
+  Duty: Designed an IEC61375 compatible Multi-functional Vehicle Bus (MVB) controller (Already deployed in high-speed trains, locomotives and subway trains operating in China, Egypt, and Argentina railways).
 
 - Parallel computer architecture for ray tracing, the National Natural Science Foundation of China, 2012 - 2016.
 
-Duty: Developed microarchitecture technologies to enable real-time ray-tracing (World’s first FPGA based GPU microarchitecture simulator, ICCD’13 best paper award).
+  Duty: Developed microarchitecture technologies to enable real-time ray-tracing (World’s first FPGA based GPU microarchitecture simulator, ICCD’13 best paper award).
 
 - Essential microarchitectural and algorithmic techniques for ray tracing, the Tsinghua Independent Research Project, 2012 - 2015.
 
-Duty: Developed highly efficient ray-tracing algorithms including a fully parallel construction algorithm for spatial acceleration structures.
+  Duty: Developed highly efficient ray-tracing algorithms including a fully parallel construction algorithm for spatial acceleration structures.
 
 Teaching Assistant
 ======
