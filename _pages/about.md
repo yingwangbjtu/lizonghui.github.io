@@ -10,7 +10,7 @@ redirect_from:
 
 He received the B.S. degree in computer science from the Beijing Information Science and Technology University, and the M.S. degree in integrated circuits from the Institute of Microelectronics, Tsinghua University, Beijing, China, in 2010 and 2014, respectively. 
 
-He is currently working toward the Ph.D. degree in software engineering at the School of Software, Tsinghua University, China since 2015. His research interests include Time Sensitive Networking, Industrial Ethernet, Real-time Embedded Systems, High Performance Computing.
+He is currently working toward the Ph.D. degree in software engineering at the School of Software, Tsinghua University, China since 2015. His research interests include Time Sensitive Networking, Industrial Ethernet, Real-time Embedded Systems, High Performance Computer Architecture, and Parallel Algorithms.
 
 His supervisor and co-supervisor are [Ming Gu](http://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219102622467554674/20101219102622467554674_.html) and [Jiaguang Sun](http://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219095105462245998/20101219095105462245998_.html), respectively. He is partly advised by the guest professors, [Xiaoyu Song](https://www.pdx.edu/ece/song), Portland State University and [Chenyang Lu](https://www.cse.wustl.edu/~lu/), Washington University in St. Louis.
 
@@ -42,22 +42,28 @@ Awards and Honors
 Work Experience
 ======
 - **Research & Development Engineer (Intern) in National Supercomputing Center (Tianjing)**, China from May to August, 2017
+---Developing multicore and cluster parallel algorithms for the 3D simulation of material.
 
-- **Research & Development Engineer (Fulltime) in Baidu**, China from August, 2014 to August, 2015
+- **Research & Development Engineer (Fulltime) in Baidu**, China from August, 2014 to August, 2015.
+---Developing very large scale machine learning algorithms such as collaborative filtering (CF), support vector machine (SVM), logical regression (LR) based on the parameter server computing model and stochastic gradient descent (SGD) method. 
 
-- **Research Assistant (Fulltime) in Knowledge Engineering Lab**, Department of Computer Science and Technology, Tsinghua University, China from July, 2010 to August, 2011
+- **Research Assistant (Fulltime) in Knowledge Engineering Lab**, Department of Computer Science and Technology, Tsinghua University, China from July, 2010 to August, 2011.
+---Developing an internetware platform for service combination and service alternation.
 
 
 Worked on Research Projects
 ======
 - Research and applications of TCSN (Train Control and Service Network) key technologies, the National Science and Technology Support Program of China (No. 2015BAG14B01-02), 2015 - 2019.
+---Developing Industrial Ethernet Switches based on the time-triggered communication protocol, time-sensitive networking protocols such as IEEE 802.1 AS, 802.1Qbv, 802.1Qca, etc. and apply them on modern railway vehicles.
 
 - Test environment and demonstration application of trustworthy embedded software systems, the Major Research Plan of the National Natural Science Foundation of China (No. 91218302), 2013 - 2016.
+---Designed an IEC61375 compatible Multi-functional Vehicle Bus (MVB) controller (Already deployed in high-speed trains, locomotives and subway trains operating in China, Egypt, and Argentina railways).
 
 - Parallel computer architecture for ray tracing, the National Natural Science Foundation of China, 2012 - 2016.
+---Developed microarchitecture technologies to enable real-time ray-tracing (World’s first FPGA based GPU microarchitecture simulator, ICCD’13 best paper award).
 
 - Essential microarchitectural and algorithmic techniques for ray tracing, the Tsinghua Independent Research Project, 2012 - 2015.
-
+---Developed highly efficient ray-tracing algorithms including a fully parallel construction algorithm for spatial acceleration structures.
 
 Teaching Assistant
 ======
@@ -79,7 +85,7 @@ Talks and Presentations
 - [Presentation] Path compression kd-trees with multi-layer parallel construction a case study on ray tracing, the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, San Francisco, California, USA, February 27, 2017.
 
 
-Recently Published Papers
+Published Papers
 ======
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao, Yue Gao, Ming Gu, Xiaoyu Song:
 Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted in 2018/10/30**)
@@ -104,3 +110,13 @@ FastTree: a hardware KD-tree construction acceleration engine for real-time ray 
 
 - Xingyu Liu, Shikai Li, Kuan Fang, Yufei Ni, **Zonghui Li**, Yangdong Deng:
 RadixBoost: A hardware acceleration structure for scalable radix sort on graphic processors. ISCAS 2015: 1174-1177
+
+- Z. Li, T. Wang, Y. Deng: Fully parallel kd-tree construction for real-time ray tracing. ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, I3D 2014: 159. (**I3D-poster**)
+
+- K. Fang, Y. Ni, J. He, **Z. Li**, S. Mu, and Y. Deng, “FastLane: An FPGA Accelerated GPU Microarchitecture Simulator,” IEEE International Conference on Computer Design, 2013. (Best Paper Award)
+
+- Y. Jiang, **Z. Li**, H. Zhang, Y. Deng, X. Song, M. Gu, and J. Sun. Design and Optimization of Multi-clocked Embedded Systems Using Formal Technique. ACM SIGSOFT Symposium on the Foundations of Software Engineering, 2013.
+
+- Y. Ma, B. Xu, Y. Bai, **Z. Li**: Building Linked Open University Data: Tsinghua University Open Data as a Showcase. JIST 2011: 385-393.
+
+- S. Luo, B. Xu, K. Sun, Y. Bai, P. Zhang, J. Hu, **Z. Li**: iWeb: A Service-Oriented Web Application Framework with Service Selection over QoS and Context. ICEBE 2011: 278-285.
