@@ -42,7 +42,8 @@ Awards and Honors
 Work Experience
 ======
 - **Research & Development Engineer (Intern) in National Supercomputing Center (Tianjing)**, China from May to August, 2017
-\n---Developing multicore and cluster parallel algorithms for the 3D simulation of material.
+
+\-\-\- Developing multicore and cluster parallel algorithms for the 3D simulation of material.
 
 - **Research & Development Engineer (Fulltime) in Baidu**, China from August, 2014 to August, 2015.
 ---Developing very large scale machine learning algorithms such as collaborative filtering (CF), support vector machine (SVM), logical regression (LR) based on the parameter server computing model and stochastic gradient descent (SGD) method. 
