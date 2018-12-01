@@ -101,7 +101,7 @@ Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking S
 Model-based adaptation to extreme physical environments: a case study on mixed-criticality industrial ethernet. Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings, ICSE 2018: 327-328.
 
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Ming Gu:
-A Flattened Priority Framework for Mixed-Criticality Real-Time Systems. IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2018: 85-88.
+A Flattened Priority Framework for Mixed-Criticality Real-Time Systems. Proceedings of the 2018 IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2018: 85-88.
 
 - **Zonghui Li**, Yangdong Deng, Ming Gu:
 Path compression kd-trees with multi-layer parallel construction a case study on ray tracing. Proceedings of the 21st ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, I3D 2017: 16:1-16:8.
