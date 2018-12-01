@@ -43,34 +43,34 @@ Work Experience
 ======
 - **Research & Development Engineer (Intern) in National Supercomputing Center (Tianjing)**, China from May to August, 2017
 
-  Duty: Developed multicore and cluster parallel algorithms for the 3D simulation of material.
+  \- Developed multicore and cluster parallel algorithms for the 3D simulation of material.
 
 - **Research & Development Engineer (Fulltime) in Baidu**, China from August, 2014 to August, 2015.
 
-  Duty: Developed very large scale machine learning algorithms such as collaborative filtering (CF), support vector machine (SVM), logical regression (LR) based on the parameter server computing model and stochastic gradient descent (SGD) method. 
+  \- Developed very large scale machine learning algorithms such as collaborative filtering (CF), support vector machine (SVM), logical regression (LR) based on the parameter server computing model and stochastic gradient descent (SGD) method. 
 
 - **Research Assistant (Fulltime) in Knowledge Engineering Lab**, Department of Computer Science and Technology, Tsinghua University, China from July, 2010 to August, 2011.
 
-  Duty: Developed an internetware platform for service combination and service alternation.
+  \- Developed an internetware platform for service combination and service alternation.
 
 
 Worked on Research Projects
 ======
 - Research and applications of TCSN (Train Control and Service Network) key technologies, the National Science and Technology Support Program of China (No. 2015BAG14B01-02), 2015 - 2019.
 
-  Duty: Developing Industrial Ethernet Switches based on the time-triggered communication protocol, time-sensitive networking protocols such as IEEE 802.1 AS, 802.1Qbv, 802.1Qca, etc. and apply them on modern railway vehicles.
+  \- Developing Industrial Ethernet Switches based on the time-triggered communication protocol, time-sensitive networking protocols such as IEEE 802.1 AS, 802.1Qbv, 802.1Qca, etc. and apply them on modern railway vehicles.
 
 - Test environment and demonstration application of trustworthy embedded software systems, the Major Research Plan of the National Natural Science Foundation of China (No. 91218302), 2013 - 2016.
 
-  Duty: Designed an IEC61375 compatible Multi-functional Vehicle Bus (MVB) controller (Already deployed in high-speed trains, locomotives and subway trains operating in China, Egypt, and Argentina railways).
+  \- Designed an IEC61375 compatible Multi-functional Vehicle Bus (MVB) controller (Already deployed in high-speed trains, locomotives and subway trains operating in China, Egypt, and Argentina railways).
 
 - Parallel computer architecture for ray tracing, the National Natural Science Foundation of China, 2012 - 2016.
 
-  Duty: Developed microarchitecture technologies to enable real-time ray-tracing (World’s first FPGA based GPU microarchitecture simulator, ICCD’13 best paper award).
+  \- Developed microarchitecture technologies to enable real-time ray-tracing (World’s first FPGA based GPU microarchitecture simulator, ICCD’13 best paper award).
 
 - Essential microarchitectural and algorithmic techniques for ray tracing, the Tsinghua Independent Research Project, 2012 - 2015.
 
-  Duty: Developed highly efficient ray-tracing algorithms including a fully parallel construction algorithm for spatial acceleration structures.
+  \- Developed highly efficient ray-tracing algorithms including a fully parallel construction algorithm for spatial acceleration structures.
 
 Teaching Assistant
 ======
@@ -98,32 +98,32 @@ Published Papers
 Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted in 2018/10/30**)
 
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Qinghan Yu, Tianchi Li, Kang Wei, Ming Gu:
-Model-based adaptation to extreme physical environments: a case study on mixed-criticality industrial ethernet. ICSE (Companion Volume) 2018: 327-328.(**ICSE-Poster**)
+Model-based adaptation to extreme physical environments: a case study on mixed-criticality industrial ethernet. Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings, ICSE 2018: 327-328.
 
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Ming Gu:
-Work-in-Progress: A Flattened Priority Framework for Mixed-Criticality Real-Time Systems. RTAS 2018: 85-88. (**RTAS-short paper**)
+A Flattened Priority Framework for Mixed-Criticality Real-Time Systems. IEEE Real-Time and Embedded Technology and Applications Symposium, RTAS 2018: 85-88.
 
 - **Zonghui Li**, Yangdong Deng, Ming Gu:
-Path compression kd-trees with multi-layer parallel construction a case study on ray tracing. I3D 2017: 16:1-16:8
+Path compression kd-trees with multi-layer parallel construction a case study on ray tracing. Proceedings of the 21st ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, I3D 2017: 16:1-16:8.
 
 - Yangdong Deng, Yufei Ni, **Zonghui Li**, Shuai Mu, Wenjun Zhang:
-Toward Real-Time Ray Tracing: A Survey on Hardware Acceleration and Microarchitecture Techniques. ACM Comput. Surv. 50(4): 58:1-58:41 (2017)
+Toward Real-Time Ray Tracing: A Survey on Hardware Acceleration and Microarchitecture Techniques. ACM Comput. Surv. 50(4): 58:1-58:41 (2017).
 
 - Yu Jiang, Hehua Zhang, **Zonghui Li**, Yangdong Deng, Xiaoyu Song, Ming Gu, Jia-Guang Sun:
-Design and Optimization of Multiclocked Embedded Systems Using Formal Techniques. IEEE Trans. Industrial Electronics 62(2): 1270-1278 (2015)
+Design and Optimization of Multiclocked Embedded Systems Using Formal Techniques. IEEE Trans. Industrial Electronics 62(2): 1270-1278 (2015).
 
 - Xingyu Liu, Yangdong Deng, Yufei Ni, **Zonghui Li**:
-FastTree: a hardware KD-tree construction acceleration engine for real-time ray tracing. DATE 2015: 1595-1598
+FastTree: a hardware KD-tree construction acceleration engine for real-time ray tracing. Proceedings of the 2015 Design, Automation & Test in Europe Conference & Exhibition, DATE 2015: 1595-1598.
 
 - Xingyu Liu, Shikai Li, Kuan Fang, Yufei Ni, **Zonghui Li**, Yangdong Deng:
-RadixBoost: A hardware acceleration structure for scalable radix sort on graphic processors. ISCAS 2015: 1174-1177
+RadixBoost: A hardware acceleration structure for scalable radix sort on graphic processors. Proceedings of the 2015 IEEE International Symposium on Circuits and Systems, ISCAS 2015: 1174-1177.
 
-- Z. Li, T. Wang, Y. Deng: Fully parallel kd-tree construction for real-time ray tracing. ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, I3D 2014: 159. (**I3D-poster**)
+- **Zonghui Li**, Tong Wang, Yangdong Deng: Fully parallel kd-tree construction for real-time ray tracing. Proceedings of the 18th ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, I3D 2014: 159.
 
-- K. Fang, Y. Ni, J. He, **Z. Li**, S. Mu, and Y. Deng, “FastLane: An FPGA Accelerated GPU Microarchitecture Simulator,” IEEE International Conference on Computer Design, 2013. (Best Paper Award)
+- Kuan Fang, Yufei Ni, Jiayuan He, **Zonghui Li**, Shuai Mu, and Yangdong Deng, “FastLane: An FPGA Accelerated GPU Microarchitecture Simulator,” Proceedings of the 2013 IEEE International Conference on Computer Design, ICCD 2013. (**Best Paper Award**)
 
-- Y. Jiang, **Z. Li**, H. Zhang, Y. Deng, X. Song, M. Gu, and J. Sun. Design and Optimization of Multi-clocked Embedded Systems Using Formal Technique. ACM SIGSOFT Symposium on the Foundations of Software Engineering, 2013.
+- Yu Jiang, **Zonghui Li**, Hehua Zhang, Yangdong Deng, Xiaoyu Song, Ming Gu, and Jiaguang Sun. Design and Optimization of Multi-clocked Embedded Systems Using Formal Technique. ACM SIGSOFT Symposium on the Foundations of Software Engineering, 2013.
 
-- Y. Ma, B. Xu, Y. Bai, **Z. Li**: Building Linked Open University Data: Tsinghua University Open Data as a Showcase. JIST 2011: 385-393.
+- Yuanchao Ma, Bin Xu, Yin Bai, **Zonghui Li**: Building Linked Open University Data: Tsinghua University Open Data as a Showcase. In: Pan J.Z. et al. (eds) The Semantic Web. Joint International Semantic Technology Conference, JIST 2011: 385-393. Lecture Notes in Computer Science, vol 7185. Springer, Berlin, Heidelberg.
 
-- S. Luo, B. Xu, K. Sun, Y. Bai, P. Zhang, J. Hu, **Z. Li**: iWeb: A Service-Oriented Web Application Framework with Service Selection over QoS and Context. ICEBE 2011: 278-285.
+- Shen Luo, Bin Xu, Kewu Sun, Yin Bai, Peng Zhang, Jiuhong Hu, **Zonghui Li**: iWeb: A Service-Oriented Web Application Framework with Service Selection over QoS and Context. Proceedings of the IEEE 8th International Conference on e-Business Engineering, ICEBE 2011: 278-285.
