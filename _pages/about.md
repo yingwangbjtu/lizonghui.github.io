@@ -10,7 +10,7 @@ redirect_from:
 
 He received the B.S. degree in computer science from the Beijing Information Science and Technology University, and the M.S. degree in integrated circuits from the Institute of Microelectronics, Tsinghua University, Beijing, China, in 2010 and 2014, respectively. 
 
-He is currently working toward the Ph.D. degree in software engineering at the School of Software, Tsinghua University, China since 2015. His research interests include Time Sensitive Networking, Industrial Ethernet, Real-time Embedded Systems, High Performance Computer Architecture, and Parallel Algorithms.
+He is currently working toward the Ph.D. degree in software engineering at the School of Software, Tsinghua University, China since 2015. His research interests include Time Sensitive Networking, Software-defined networking, Cyber-physical systems, High Performance Computer Architecture, and Parallel Algorithms.
 
 His supervisor and co-supervisor are [Ming Gu](http://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219102622467554674/20101219102622467554674_.html) and [Jiaguang Sun](http://www.thss.tsinghua.edu.cn/publish/soften/3131/2010/20101219095105462245998/20101219095105462245998_.html), respectively. He is partly advised by the guest professors, [Xiaoyu Song](https://www.pdx.edu/ece/song), Portland State University and [Chenyang Lu](https://www.cse.wustl.edu/~lu/), Washington University in St. Louis.
 
