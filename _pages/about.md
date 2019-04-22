@@ -96,7 +96,7 @@ Talks and Presentations
 
 Published Papers
 ======
--- **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao, Yue Gao, Ming Gu, Xiaoyu Song:
+- **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao, Yue Gao, Ming Gu, Xiaoyu Song:
 Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted on 2019/04/16**)
 
 - **Zonghui Li**, Hai Wan, Zaiyu Pang, Qiubo Chen, Yangdong Deng, Xibin Zhao, Yue Gao, Xiaoyu Song, Ming Gu: An Enhanced Reconfiguration for Deterministic Transmission in Time-triggered Networks. IEEE/ACM Transactions on Networking. (**Accepted on 2019/4/03**) 
