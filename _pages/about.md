@@ -17,7 +17,9 @@ His supervisor and co-supervisor are [Ming Gu](http://www.thss.tsinghua.edu.cn/p
 
 News
 ======
-[**Paper**] "**Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches**" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (2018/10/30)  
+[**Paper**] "**Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments**" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**2019/04/16**)
+
+[**Paper**] "**An Enhanced Reconfiguration for Deterministic Transmission in Time-triggered Networks**" is accepted in the IEEE/ACM Transactions on Networking. (**2019/4/03**) 
 
 
 Awards and Honors
@@ -94,8 +96,13 @@ Talks and Presentations
 
 Published Papers
 ======
+-- **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao, Yue Gao, Ming Gu, Xiaoyu Song:
+Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted on 2019/04/16**)
+
+- **Zonghui Li**, Hai Wan, Zaiyu Pang, Qiubo Chen, Yangdong Deng, Xibin Zhao, Yue Gao, Xiaoyu Song, Ming Gu: An Enhanced Reconfiguration for Deterministic Transmission in Time-triggered Networks. IEEE/ACM Transactions on Networking. (**Accepted on 2019/4/03**) 
+
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao, Yue Gao, Ming Gu, Xiaoyu Song:
-Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted in 2018/10/30**)
+Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted on 2018/10/30**)
 
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Qinghan Yu, Tianchi Li, Kang Wei, Ming Gu:
 Model-based adaptation to extreme physical environments: a case study on mixed-criticality industrial ethernet. Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings, ICSE 2018: 327-328.
