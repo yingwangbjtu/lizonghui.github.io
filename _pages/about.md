@@ -96,6 +96,8 @@ Talks and Presentations
 
 Published Papers
 ======
+Journal Papers
+===
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao, Yue Gao, Ming Gu, Xiaoyu Song:
 Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted on 2019/04/16**)
 
@@ -104,6 +106,15 @@ Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Ph
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao, Yue Gao, Ming Gu, Xiaoyu Song:
 Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted on 2018/10/30**)
 
+- Yangdong Deng, Yufei Ni, **Zonghui Li**, Shuai Mu, Wenjun Zhang:
+Toward Real-Time Ray Tracing: A Survey on Hardware Acceleration and Microarchitecture Techniques. ACM Comput. Surv. 50(4): 58:1-58:41 (2017).
+
+- Yu Jiang, Hehua Zhang, **Zonghui Li**, Yangdong Deng, Xiaoyu Song, Ming Gu, Jia-Guang Sun:
+Design and Optimization of Multiclocked Embedded Systems Using Formal Techniques. IEEE Trans. Industrial Electronics 62(2): 1270-1278 (2015).
+
+
+Conference Papers
+===
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Qinghan Yu, Tianchi Li, Kang Wei, Ming Gu:
 Model-based adaptation to extreme physical environments: a case study on mixed-criticality industrial ethernet. Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings, ICSE 2018: 327-328.
 
@@ -112,12 +123,6 @@ A Flattened Priority Framework for Mixed-Criticality Real-Time Systems. Proceedi
 
 - **Zonghui Li**, Yangdong Deng, Ming Gu:
 Path compression kd-trees with multi-layer parallel construction a case study on ray tracing. Proceedings of the 21st ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, I3D 2017: 16:1-16:8.
-
-- Yangdong Deng, Yufei Ni, **Zonghui Li**, Shuai Mu, Wenjun Zhang:
-Toward Real-Time Ray Tracing: A Survey on Hardware Acceleration and Microarchitecture Techniques. ACM Comput. Surv. 50(4): 58:1-58:41 (2017).
-
-- Yu Jiang, Hehua Zhang, **Zonghui Li**, Yangdong Deng, Xiaoyu Song, Ming Gu, Jia-Guang Sun:
-Design and Optimization of Multiclocked Embedded Systems Using Formal Techniques. IEEE Trans. Industrial Electronics 62(2): 1270-1278 (2015).
 
 - Xingyu Liu, Yangdong Deng, Yufei Ni, **Zonghui Li**:
 FastTree: a hardware KD-tree construction acceleration engine for real-time ray tracing. Proceedings of the 2015 Design, Automation & Test in Europe Conference & Exhibition, DATE 2015: 1595-1598.
@@ -130,7 +135,3 @@ RadixBoost: A hardware acceleration structure for scalable radix sort on graphic
 - Kuan Fang, Yufei Ni, Jiayuan He, **Zonghui Li**, Shuai Mu, and Yangdong Deng, “FastLane: An FPGA Accelerated GPU Microarchitecture Simulator,” Proceedings of the 2013 IEEE International Conference on Computer Design, ICCD 2013. (**Best Paper Award**)
 
 - Yu Jiang, **Zonghui Li**, Hehua Zhang, Yangdong Deng, Xiaoyu Song, Ming Gu, and Jiaguang Sun. Design and Optimization of Multi-clocked Embedded Systems Using Formal Technique. ACM SIGSOFT Symposium on the Foundations of Software Engineering, 2013.
-
-- Yuanchao Ma, Bin Xu, Yin Bai, **Zonghui Li**: Building Linked Open University Data: Tsinghua University Open Data as a Showcase. In: Pan J.Z. et al. (eds) The Semantic Web. Joint International Semantic Technology Conference, JIST 2011: 385-393. Lecture Notes in Computer Science, vol 7185. Springer, Berlin, Heidelberg.
-
-- Shen Luo, Bin Xu, Kewu Sun, Yin Bai, Peng Zhang, Jiuhong Hu, **Zonghui Li**: iWeb: A Service-Oriented Web Application Framework with Service Selection over QoS and Context. Proceedings of the IEEE 8th International Conference on e-Business Engineering, ICEBE 2011: 278-285.
