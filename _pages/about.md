@@ -94,10 +94,8 @@ Talks and Presentations
 - [Presentation] Path compression kd-trees with multi-layer parallel construction a case study on ray tracing, the ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games, San Francisco, California, USA, February 27, 2017.
 
 
-Published Papers
-======
 Journal Papers
-===
+======
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Xibin Zhao, Yue Gao, Ming Gu, Xiaoyu Song:
 Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted on 2019/04/16**)
 
@@ -114,7 +112,7 @@ Design and Optimization of Multiclocked Embedded Systems Using Formal Techniques
 
 
 Conference Papers
-===
+======
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Qinghan Yu, Tianchi Li, Kang Wei, Ming Gu:
 Model-based adaptation to extreme physical environments: a case study on mixed-criticality industrial ethernet. Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings, ICSE 2018: 327-328.
 
