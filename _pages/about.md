@@ -107,10 +107,10 @@ Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Ph
 Time-triggered Switch-Memory-Switch Architecture for Time-Sensitive Networking Switches. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**Accepted on 2018/10/30**)
 
 - Yangdong Deng, Yufei Ni, **Zonghui Li**, Shuai Mu, Wenjun Zhang:
-Toward Real-Time Ray Tracing: A Survey on Hardware Acceleration and Microarchitecture Techniques. ACM Comput. Surv. 50(4): 58:1-58:41 (2017).
+Toward Real-Time Ray Tracing: A Survey on Hardware Acceleration and Microarchitecture Techniques. ACM Computing Survey. 50(4): 58:1-58:41 (2017).
 
 - Yu Jiang, Hehua Zhang, **Zonghui Li**, Yangdong Deng, Xiaoyu Song, Ming Gu, Jia-Guang Sun:
-Design and Optimization of Multiclocked Embedded Systems Using Formal Techniques. IEEE Trans. Industrial Electronics 62(2): 1270-1278 (2015).
+Design and Optimization of Multiclocked Embedded Systems Using Formal Techniques. IEEE Transactions on Industrial Electronics 62(2): 1270-1278 (2015).
 
 
 Conference Papers
