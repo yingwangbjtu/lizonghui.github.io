@@ -11,10 +11,9 @@ redirect_from:
 He received the B.S. degree in computer science from the Beijing Information Science and Technology University, and the M.S. degree in integrated circuits from the Institute of Microelectronics, Tsinghua University, Beijing, China, in 2010 and 2014, respectively. He is currently working toward the Ph.D. degree in software engineering at the School of Software, Tsinghua University, China since 2015.
 
 His research interests include:
-- Computer-Aided Design of Integrated Circuits and Systems
-- Computer Architecture
+- Industrial Real-Time Networking
 - Parallel Algorithms
-- Networking for Emerging Applications and Technologies
+- VLSI Design
 
 
 News
