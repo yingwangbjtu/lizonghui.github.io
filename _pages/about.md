@@ -18,7 +18,7 @@ His research interests include:
 
 News
 ======
-[**Paper**] "[**Dynamically Optimizing End-to-End Latency for Time-Triggered Networks**]" is accepted in the SIGCOMM2019 Workshop on Networking for Emerging Applications and Technologies. (**2019/05/31**)
+[**Paper**] "[**Dynamically Optimizing End-to-End Latency for Time-Triggered Networks**](#)" is accepted in the SIGCOMM2019 Workshop on Networking for Emerging Applications and Technologies. (**2019/05/31**)
 
 [**Paper**] "[**Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments**](https://ieeexplore.ieee.org/document/8708223)" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**2019/04/16**)
 
