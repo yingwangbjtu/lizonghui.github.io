@@ -18,6 +18,8 @@ His research interests include:
 
 News
 ======
+[**Paper**] "[**Dynamically Optimizing End-to-End Latency for Time-Triggered Networks**]" is accepted in the SIGCOMM2019 Workshop on Networking for Emerging Applications and Technologies. (**2019/05/31**)
+
 [**Paper**] "[**Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments**](https://ieeexplore.ieee.org/document/8708223)" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**2019/04/16**)
 
 [**Paper**] "[**An Enhanced Reconfiguration for Deterministic Transmission in Time-triggered Networks**](https://ieeexplore.ieee.org/abstract/document/8700610)" is accepted in the IEEE/ACM Transactions on Networking. (**2019/4/03**) 
@@ -114,6 +116,9 @@ Design and Optimization of Multiclocked Embedded Systems Using Formal Techniques
 
 Conference Papers
 ======
+- **Zonghui Li**, Hai Wan, Boxu Zhao, Yangdong Deng, Ming Gu:
+Dynamically Optimizing End-to-End Latency for Time-Triggered Networks.Proceedings of the SIGCOMM 2019 Workshop on Networking for Emerging Applications and Technologies. (**Accepted on 2019/05/31**)
+
 - **Zonghui Li**, Hai Wan, Yangdong Deng, Qinghan Yu, Tianchi Li, Kang Wei, Ming Gu:
 Model-based adaptation to extreme physical environments: a case study on mixed-criticality industrial ethernet. Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings, ICSE 2018: 327-328.
 
