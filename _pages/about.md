@@ -22,7 +22,7 @@ News
 
 [**Paper**] "[**Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments**](https://ieeexplore.ieee.org/document/8708223)" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**2019/04/16**)
 
-[**Paper**] "[**An Enhanced Reconfiguration for Deterministic Transmission in Time-triggered Networks**](https://ieeexplore.ieee.org/abstract/document/8700610)" is accepted in the IEEE/ACM Transactions on Networking. (**2019/4/03**) 
+[**Paper**] "[**An Enhanced Reconfiguration for Deterministic Transmission in Time-triggered Networks**](https://ieeexplore.ieee.org/abstract/document/8700610)" is accepted in the IEEE/ACM Transactions on Networking. (**2019/04/03**) 
 
 
 Awards and Honors
