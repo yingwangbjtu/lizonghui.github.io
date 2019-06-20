@@ -18,7 +18,7 @@ His research interests include:
 
 News
 ======
-[**Awards**] Zonghui Li is honored with [**the Excellent Beijing Ph.D. Graduate Award**](#) from Tsinghua University.(**2019/06/20**)
+[**Awards**] Zonghui Li is honored with [**the Excellent Beijing Ph.D. Graduate Award**](#) from Tsinghua University. (**2019/06/20**)
 
 [**Paper**] "[**Dynamically Optimizing End-to-End Latency for Time-Triggered Networks**](#)" is accepted in the SIGCOMM2019 Workshop on Networking for Emerging Applications and Technologies. (**2019/05/31**)
 
