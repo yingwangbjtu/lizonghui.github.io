@@ -18,6 +18,8 @@ His research interests include:
 
 News
 ======
+[**Awards**] Zonghui Li is honored with [**the Excellent Beijing Ph.D. Graduate Award**](#) from Tsinghua University.(**2019/06/20**)
+
 [**Paper**] "[**Dynamically Optimizing End-to-End Latency for Time-Triggered Networks**](#)" is accepted in the SIGCOMM2019 Workshop on Networking for Emerging Applications and Technologies. (**2019/05/31**)
 
 [**Paper**] "[**Model-Based Adaptation of Mixed-Criticality Multi-Service Systems for Extreme Physical Environments**](https://ieeexplore.ieee.org/document/8708223)" is accepted in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (**2019/04/16**)
@@ -27,11 +29,13 @@ News
 
 Awards and Honors
 ======
+- **Excellent Beijing Ph.D. Graduate Award**, 2019
+
 - **Best paper award**, International Conference on Computer Design, 2013
 
 - First Rank NTUNISOFT Scholarship, 2017
 
-- **Excellent Beijing Graduate Award**, 2010
+- **Excellent Beijing B.S. Graduate Award**, 2010
 
 - TRS (Beijing TRS Information Technology Limited) Scholarship, 2010
 
