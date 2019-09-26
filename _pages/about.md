@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-He received the B.S. degree in computer science from Beijing Information Science and Technology University in 2010, and the M.S. and Ph.D. degree from Institute of Microelectronics and School of Software, Tsinghua University, Beijing, China, in 2014 and 2019, respectively.
+He received the B.S. degree in computer science from Beijing Information Science and Technology University in 2010, and the M.S. and Ph.D. degree in 2014 and 2019 from Institute of Microelectronics and School of Software, Tsinghua University, Beijing, China, respectively.
 
 He is currently an assistant professor in School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China. His research interests include:
 - Industrial Real-Time Networking
