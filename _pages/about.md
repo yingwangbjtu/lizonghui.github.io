@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zonghui Li"
+title: "Ying Wang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-He received the B.S. degree in computer science from Beijing Information Science and Technology University in 2010, and the M.S. and Ph.D. degree in 2014 and 2019 from Institute of Microelectronics and School of Software, Tsinghua University, Beijing, China, respectively.
+She received the B.S. degree in optical science and technology from Beijing Jiaotong University in 2010, and the Ph.D. degree in 2015 from Peking University, Beijing, China. 
 
 He is currently an assistant professor in School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China. His research interests include:
 - Industrial Real-Time Networking
